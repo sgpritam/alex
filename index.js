@@ -61,4 +61,5 @@ function htmlParse(value, allow) {
 // Alex, without the markdown.
 function noMarkdown(value) {
   return core(value, text)
+
 }
